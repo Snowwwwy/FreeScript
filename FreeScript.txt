@@ -7,5 +7,5 @@ if game.PlaceId == 2753915549 then
             elseif game.PlaceId == 1962086868then
              loadstring(game:HttpGet("https://raw.githubusercontent.com/Snowwwwy/SnowHubTowerOfHell/main/SnowwwyTower.lua"))()
            else
-            game.Players.LocalPlayer:Kick("มันไม่รองรับเกมนี้ไอโ.ง่")
+            game.Players.LocalPlayer:Kick("มันไม่รองรับเกมนี้ไอโง่")
 end
